@@ -1,0 +1,3 @@
+*.zip
+ner/ltp_data/*
+.idea/*
